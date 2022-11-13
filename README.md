@@ -22,11 +22,17 @@ This is a sidebar menu based on [Oniline Tutorials](https://www.youtube.com/watc
 
 ### Links
 
+- [ionicons](https://ionic.io/ionicons) - Open source icons used in project.
+
 **Links that helped me reach the goal.**
 
 ## My process
 
 ### What I learned
+
+- Creating listed menu.
+- Adding external images to project.
+- Using :active selector
 
 **How I developed by finishing the project.**
 
@@ -35,6 +41,8 @@ This is a sidebar menu based on [Oniline Tutorials](https://www.youtube.com/watc
 **Note of possible future upgrades of given project.**
 
 ### Useful resources
+
+- [Meaning of * in CSS](https://stackoverflow.com/questions/8715860/what-does-mean-in-css)
 
 **Helpful websites that aided me throught the course.**
 
