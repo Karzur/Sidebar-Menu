@@ -78,6 +78,7 @@ body
 .navigation ul li a .icon ion-icon
 {
     font-size: 1.5em;
+    padding-top: 0.7em;
 }
 
 .navigation ul li a .title
@@ -88,4 +89,44 @@ body
     height: 60px;
     line-height: 60px;
     white-space: normal;
+}
+
+.toggle
+{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background: #4d5bf9;
+    border-radius: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.toggle.active
+{
+    background: #ff4d89;
+}
+
+.toggle ion-icon
+{
+    position: absolute;
+    color: #fff;
+    font-size: 34px;
+    display: none;
+}
+
+.toggle ion-icon.open,
+.toggle.active ion-icon.close
+{
+   display: block; 
+}
+
+.toggle ion-icon.close,
+.toggle.active ion-icon.open
+{
+   display: none; 
 }

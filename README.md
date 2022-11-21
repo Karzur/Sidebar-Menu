@@ -32,7 +32,7 @@ This is a sidebar menu based on [Oniline Tutorials](https://www.youtube.com/watc
 
 - Creating listed menu.
 - Adding external images to project.
-- Using :active selector
+- Using selectors
 
 **How I developed by finishing the project.**
 
