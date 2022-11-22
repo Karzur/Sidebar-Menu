@@ -18,13 +18,11 @@ This is a sidebar menu based on [Oniline Tutorials](https://www.youtube.com/watc
 
 ### Screenshot
 
-**Here I am gonna post image of completed project.**
+![Preview of finished project](./screenshots/finished-project.JPG)
 
 ### Links
 
 - [ionicons](https://ionic.io/ionicons) - Open source icons used in project.
-
-**Links that helped me reach the goal.**
 
 ## My process
 
@@ -32,19 +30,19 @@ This is a sidebar menu based on [Oniline Tutorials](https://www.youtube.com/watc
 
 - Creating listed menu.
 - Adding external images to project.
-- Using selectors
-
-**How I developed by finishing the project.**
+- Using selectors.
 
 ### Continued development
 
-**Note of possible future upgrades of given project.**
+This is just a sidebar. It can be implemented on every website that uses menu on the side. Posibilities are endless. ;)
+
+Note: After making this project I highly discourage beginniers to do it. Making only part of the whole website by rewriting someone's code is not as developing as creating whole project based on graphical design.
 
 ### Useful resources
 
 - [Meaning of * in CSS](https://stackoverflow.com/questions/8715860/what-does-mean-in-css)
-
-**Helpful websites that aided me throught the course.**
+- [How querySelector works](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
+- [:n-th-child() CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
 
 ## Author
 
