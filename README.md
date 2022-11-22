@@ -18,7 +18,7 @@ This is a sidebar menu based on [Oniline Tutorials](https://www.youtube.com/watc
 
 ### Screenshot
 
-![Preview of finished project](./screenshots/finished-project.JPG)
+![Preview of finished project](./images/finished-project.JPG)
 
 ### Links
 
